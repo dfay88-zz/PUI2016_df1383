@@ -1,0 +1,15 @@
+# Calculate Z Score and P Value (Right Sided Test)
+def z_score(s1,s2):
+    s1_mean = np.mean(s1)
+    s2_mean = np.mean(s2)
+    s1_std = np.std(s2)
+    s2_std = np.std(s2)
+    n1 = len(s1)
+    n2 = len(s2)
+    print (s1_mean,s2_mean)
+    return (s1_mean-s2_mean)/(np.sqrt(((s2_std**2)/(n2))+((s1_std**2)/(n1))))
+                              
+z_score = z_score(df_over30['tripduration'],df_under30['tripduration'])
+p_value = st.norm.sf(abs(z_score))
+print ('Z Score: ', z_score)
+print('P Value: ', p_value)
