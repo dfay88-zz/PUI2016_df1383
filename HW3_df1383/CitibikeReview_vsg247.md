@@ -9,7 +9,7 @@ The formulation of the Null and Alternative Hypotheses was correct, very clear a
 
 ### b. Verify that the data supports the project 
 
-The data preparation was very thorough. Outliers were taken good care of visualizations of the dataset were very clear and
+The data preparation was very thorough. Outliers were taken good care of and the visualizations of the dataset were clear and
 helpful. Besides that, the dataset has all the informaion needed in order to perform the intended analysis.
 
 
