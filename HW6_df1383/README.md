@@ -9,3 +9,5 @@ as well as a likelihood ratio test.
 ## Assignment 2
 
 Assignment 2 required us to finish our hypothesis test for the citibike mini project. Additionally, we needed to write a short summary of results and post it on Authorea.
+
+https://www.authorea.com/users/106879/articles/133891/_show_article
