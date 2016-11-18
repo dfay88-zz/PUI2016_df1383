@@ -10,3 +10,6 @@ polynomial models in order to try to predict energy consumption using number of 
 Assignment 2 required us to finish our hypothesis test for the citibike mini project. Additionally, we needed to write a short summary of results and post it on Authorea. I collabarated with Victor and Avikal on questions for our respective tests but we eached performed invdividual mini projects.
 
 https://www.authorea.com/users/106879/articles/133891/_show_article
+
+# README
+the report is technically ok, but it lacks any visualization of the data. Also you state you worked with Victor and Avikal but Victor investigated a completely different question. 
